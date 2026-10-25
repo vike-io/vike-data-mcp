@@ -1,0 +1,15 @@
+{
+  "name": "vike-data",
+  "displayName": "Vike Data API",
+  "version": "1.1.1",
+  "description": "Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket.",
+  "author": {
+    "name": "Vike",
+    "email": "info@vike.io"
+  },
+  "homepage": "https://vike.io/data/",
+  "repository": "https://github.com/vike-io/vike-data-mcp",
+  "license": "MIT",
+  "keywords": ["crypto", "onchain", "wallets", "hyperliquid", "polymarket", "defi", "trading", "mcp"],
+  "logo": "assets/logo.png"
+}

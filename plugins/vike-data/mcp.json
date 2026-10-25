@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vike-data": {
+      "url": "https://data.vike.io/mcp"
+    }
+  }
+}

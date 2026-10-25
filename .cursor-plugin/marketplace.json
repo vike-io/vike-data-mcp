@@ -1,0 +1,18 @@
+{
+  "name": "vike",
+  "owner": {
+    "name": "Vike",
+    "email": "info@vike.io"
+  },
+  "metadata": {
+    "description": "Vike Data API for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket.",
+    "version": "1.1.1"
+  },
+  "plugins": [
+    {
+      "name": "vike-data",
+      "source": "./plugins/vike-data",
+      "description": "Remote MCP server with crypto data: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket."
+    }
+  ]
+}
