@@ -7,7 +7,7 @@
     "name": "Vike",
     "email": "info@vike.io"
   },
-  "homepage": "https://vike.io/data/",
+  "homepage": "https://vike.io/data",
   "repository": "https://github.com/vike-io/vike-data-mcp",
   "license": "MIT",
   "keywords": ["crypto", "onchain", "wallets", "hyperliquid", "polymarket", "defi", "trading", "mcp"],
