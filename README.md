@@ -17,11 +17,15 @@ plugin, the registry `server.json`, and install notes for agents. There is nothi
 - **On-chain wallets and tokens** on Ethereum, BNB Chain, Base and HyperEVM: wallet flows and
   balances, PnL history, counterparties, first funder, exchange usage, entity labels and risk flags,
   token holders, transfers and a token screener.
-- **Hyperliquid perps**: wallet positions and fills, liquidations, leaderboards, builders, market
-  stats and candles.
+- **Hyperliquid perps**: wallet positions, fills and closed trades, orders and order clusters,
+  TWAPs, deposits and withdrawals, leverage changes, liquidations, leaderboards, builders, vaults,
+  market stats, hourly funding and open interest, HYPE holders, candles and the Parquet archive.
 - **HL Cohorts**: hourly long/short positioning of each Hyperliquid perp split by wallet cohort.
 - **Polymarket**: markets, order books, trade tape, settlements, wallet profiles, leaderboard and
   smart-money flows.
+- **Search** across all of the above: tokens, wallets, traders, vaults, builders and markets.
+- **Live streams** (`wss://stream.vike.io`): list the channels and their filters, check a filter
+  before subscribing, read past stream events, and see your own connections.
 
 ## Connect
 
