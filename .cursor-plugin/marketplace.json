@@ -5,14 +5,14 @@
     "email": "info@vike.io"
   },
   "metadata": {
-    "description": "Vike Data API for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket.",
-    "version": "1.1.1"
+    "description": "Vike Data API for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts, Polymarket and Predict.fun.",
+    "version": "1.1.2"
   },
   "plugins": [
     {
       "name": "vike-data",
       "source": "./plugins/vike-data",
-      "description": "Remote MCP server with crypto data: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket."
+      "description": "Remote MCP server with crypto data: on-chain wallets and tokens, Hyperliquid, HL Cohorts, Polymarket and Predict.fun."
     }
   ]
 }

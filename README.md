@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Vike" width="96" align="right">
 
-Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket.
+Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts, Polymarket and Predict.fun.
 
 - **Endpoint:** `https://data.vike.io/mcp` (Streamable HTTP)
 - **Auth:** OAuth 2.1 sign-in, or a Vike API key in the `X-API-KEY` header ([create a key](https://vike.io/account?tab=api-keys))
@@ -23,6 +23,8 @@ plugin, the registry `server.json`, and install notes for agents. There is nothi
 - **HL Cohorts**: hourly long/short positioning of each Hyperliquid perp split by wallet cohort.
 - **Polymarket**: markets, order books, trade tape, settlements, wallet profiles, leaderboard and
   smart-money flows.
+- **Predict.fun** (BNB Chain): markets, order books, every fill, wallet positions and P&L, and a
+  leaderboard.
 - **Search** across all of the above: tokens, wallets, traders, vaults, builders and markets.
 - **Live streams** (`wss://stream.vike.io`): list the channels and their filters, check a filter
   before subscribing, read past stream events, and see your own connections.
