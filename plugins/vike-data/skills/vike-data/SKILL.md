@@ -1,6 +1,6 @@
 ---
 name: vike-data
-description: Use the Vike Data API MCP tools for crypto research questions about on-chain wallets and tokens, Hyperliquid perps and wallet cohorts, and Polymarket.
+description: Use the Vike Data API MCP tools for crypto research questions about on-chain wallets and tokens, Hyperliquid perps and wallet cohorts, Polymarket and Predict.fun.
 ---
 
 # Vike Data API
@@ -11,6 +11,7 @@ description: Use the Vike Data API MCP tools for crypto research questions about
 - **Hyperliquid perps**: wallet positions and fills, liquidations, leaderboards, builders, market stats and candles.
 - **HL Cohorts**: hourly long/short positioning of each Hyperliquid perp split by wallet cohort (account size, realized-PnL percentile, PnL bands, position size).
 - **Polymarket**: markets, order books, trade tape, settlements, wallet profiles, leaderboard and smart-money flows.
+- **Predict.fun** (BNB Chain): markets, order books, every fill, wallet positions and P&L, and a leaderboard.
 
 ## Conventions
 

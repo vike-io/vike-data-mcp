@@ -1,8 +1,8 @@
 {
   "name": "vike-data",
   "displayName": "Vike Data API",
-  "version": "1.1.1",
-  "description": "Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts and Polymarket.",
+  "version": "1.1.2",
+  "description": "Crypto data for AI agents: on-chain wallets and tokens, Hyperliquid, HL Cohorts, Polymarket and Predict.fun.",
   "author": {
     "name": "Vike",
     "email": "info@vike.io"
